@@ -56,5 +56,65 @@ header{
 #bed{
     height: 600px;
     width: 600px;
+}
+.screenPainting{
+    padding: 5%;
+    width: 25%;
 
 }
+#knowMore{
+    border-radius: 40%;
+    padding: 2% 10%;
+    font-size: 20px;
+    color: white;
+    background-color: rgb(56, 138, 56);
+}
+#contactUs{
+    border-radius: 40%;
+    padding: 2% 10%;
+    font-size: 20px;
+    color: white;
+    background-color: grey;
+}
+.techniquesArray{
+    display: flex;
+    gap: 40px;
+}
+#traditionalPrinting{
+    height: 600px;
+    width: 580px;
+    border-radius: 5%;
+}
+#advancedPrinting{
+    height: 600px;
+    width: 580px;
+    border-radius: 5%;
+}
+#fourColor{
+    height: 600px;
+    width: 580px;
+    border-radius: 5%;
+}
+.techniquesSummary{
+    display: flex;
+    gap: 350px;
+}
+.sumTraditional{
+    width: 20%;
+    font-size: x-large;
+    margin-left: 20px;
+
+}
+.sumAdvanced{
+    width: 20%;
+    font-size: x-large;
+}
+.sumFourColor{
+    width: 20%;
+    font-size: x-large;
+}
+.clientPraise{
+    
+}
+
+
